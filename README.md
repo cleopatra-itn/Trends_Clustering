@@ -17,7 +17,6 @@ python3 Hierarchies.py
 python3 DynamicTimeWarping.py
 
 
-
 If you find this useful, please cite:
 
 ```
