@@ -4,17 +4,18 @@ Paper: How Are the Economic Conditions and Political Alignment of a Newspaper Re
 
 ### Find Jaccard Similarity
 ```
-python3 src/train_model.py
+python3 jaccardSim.py
 ```
 
 ### Find dendrograms and hierarchies
 ```
-python3 src/predict_model.py
+python3 Hierarchies.py
 ```
 
 ### Calculate DTW and Euclidean Distance
 ```
-python3 src/evaluate_model.py
+python3 DynamicTimeWarping.py
+
 
 
 If you find this useful, please cite:
