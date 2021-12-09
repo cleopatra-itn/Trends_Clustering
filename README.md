@@ -15,7 +15,7 @@ python3 Hierarchies.py
 ### Calculate DTW and Euclidean Distance
 ```
 python3 DynamicTimeWarping.py
-
+```
 
 If you find this useful, please cite:
 
