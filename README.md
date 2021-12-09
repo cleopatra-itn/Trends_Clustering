@@ -2,6 +2,20 @@
 
 Paper: How Are the Economic Conditions and Political Alignment of a Newspaper Reflected in the Events They Report On? (https://www.proquest.com/docview/2604878234?pq-origsite=gscholar&fromopenview=true)
 
+### Find Jaccard Similarity
+```
+python3 src/train_model.py
+```
+
+### Generate the predictions
+```
+python3 src/predict_model.py
+```
+
+### Evaluate and compare the models
+```
+python3 src/evaluate_model.py
+
 
 If you find this useful, please cite:
 
