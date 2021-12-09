@@ -7,12 +7,12 @@ Paper: How Are the Economic Conditions and Political Alignment of a Newspaper Re
 python3 src/train_model.py
 ```
 
-### Generate the predictions
+### Find dendrograms and hierarchies
 ```
 python3 src/predict_model.py
 ```
 
-### Evaluate and compare the models
+### Calculate DTW and Euclidean Distance
 ```
 python3 src/evaluate_model.py
 
